@@ -198,6 +198,9 @@ Quick Start
 
 ## Author Info
 Shubh Gupta
+
 BITS ID: 2026A7UB1757P
+
 Submission for IEEE Task 0
+
 IEEE Club, BITS Pilani, Pilani Campus.
