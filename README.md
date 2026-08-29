@@ -196,6 +196,7 @@ python task0_Q6.py
 Quick Start
 
 
+## Author Info
 Shubh Gupta
 BITS ID: 2026A7UB1757P
 Submission for IEEE Task 0
